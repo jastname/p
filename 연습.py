@@ -7,8 +7,7 @@ screen_height = 640
 screenSize = (screen_width, screen_height)
 gameScreen = pygame.display.set_mode(screenSize)
 
-pygame.display.set_caption("dltmdgjs rotoRl")
-
+pygame.display.set_caption("적당한 창")
 clock = pygame.time.Clock()
 
 background = pygame.image.load("C:/Users/user/Desktop/20111이성민/1/새 폴더/background.png")
